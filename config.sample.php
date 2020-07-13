@@ -10,5 +10,3 @@ define("DB_NAME", 'DATABASE_NAME');
 define("DB_USER", 'DATABASE_USER');
 define("DB_PASS", 'DATABASE_PASS');
 define("DB_HOST", 'localhost');
-
-$db = new Database(DB_NAME, DB_USER, DB_PASS, DB_HOST);

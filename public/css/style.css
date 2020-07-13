@@ -1,0 +1,53 @@
+body {
+	font-family: arial;
+	font-size: 12px;
+}
+.error {
+	color: red;
+}
+.success {
+	color: green;
+}
+.form-message {
+    background: #f1f1f1;
+    padding: 10px;
+}
+
+.inbox ul {
+    padding: 0px;
+    margin: 0px;
+    list-style: none;
+    flex-direction: column;
+    display: flex;
+    align-items: flex-start;
+}
+
+.inbox-item {
+    padding: 10px;
+    background: #fff;
+    box-shadow: 1px 1px 1px 0px #ccc;
+    margin: 0px 0px 10px;
+    flex-grow: 0;
+    border-radius: 5px;
+    max-width: 50%;
+}
+
+.inbox {
+    padding: 20px;
+    background: #eaecee;
+    max-width: 1000px;
+}
+
+.inbox-item.sent {
+    align-self: flex-end;
+    background: #d4f9c8;
+}
+
+.inbox-item .m-message {
+    margin: 5px 0px;
+}
+
+.inbox-item .m-date {
+    color: #b5b5b5;
+    text-align: right;
+}

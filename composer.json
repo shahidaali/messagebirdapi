@@ -1,0 +1,22 @@
+{
+    "name": "connectpx/messagebirdapi",
+    "description": "MessageBird REST API implementation test.",
+    "type": "test",
+    "homepage": "https://github.com/messagebird/php-rest-api",
+    "license": "BSD-2-Clause",
+    "authors": [
+        {
+            "name": "ConnectPx",
+            "email": "connectpx@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "MessageBirdApi\\": "src/MessageBirdApi/"
+        }
+    },
+    "require": {
+        "messagebird/php-rest-api": "^1.18",
+        "tschoffelen/db.php": "^1.1"
+    }
+}

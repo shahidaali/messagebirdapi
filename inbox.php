@@ -109,5 +109,14 @@ try {
 			<button type="submit">Send</button>
 		</p>
 	</form>
+
+	<div id="vueApp">
+		<contact-list inline-template>
+			
+		</contact-list>
+	</div>
+	<script type="text/javascript" src="public/js/jquery-3.4.1.min.js"></script>
+	<script type="text/javascript" src="public/js/vue-components.js"></script>
+	<script type="text/javascript" src="public/js/vue.js"></script>
 </body>
 </html>

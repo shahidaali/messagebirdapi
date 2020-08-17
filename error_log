@@ -1,0 +1,63 @@
+[16-Jul-2020 08:53:38 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home4/hamdanonline/public_html/demo/messagebird/vendor/tschoffelen/db.php/Database.php on line 45
+[16-Jul-2020 08:53:38 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function set_charset() on boolean in /home4/hamdanonline/public_html/demo/messagebird/vendor/tschoffelen/db.php/Database.php:46
+Stack trace:
+#0 /home4/hamdanonline/public_html/demo/messagebird/init.php(6): Database->__construct('php_messagebird', 'root', '', 'localhost')
+#1 /home4/hamdanonline/public_html/demo/messagebird/index.php(2): require_once('/home4/hamdanon...')
+#2 {main}
+  thrown in /home4/hamdanonline/public_html/demo/messagebird/vendor/tschoffelen/db.php/Database.php on line 46
+[16-Jul-2020 08:53:55 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home4/hamdanonline/public_html/demo/messagebird/vendor/tschoffelen/db.php/Database.php on line 45
+[16-Jul-2020 08:53:55 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function set_charset() on boolean in /home4/hamdanonline/public_html/demo/messagebird/vendor/tschoffelen/db.php/Database.php:46
+Stack trace:
+#0 /home4/hamdanonline/public_html/demo/messagebird/init.php(6): Database->__construct('php_messagebird', 'root', '', 'localhost')
+#1 /home4/hamdanonline/public_html/demo/messagebird/index.php(2): require_once('/home4/hamdanon...')
+#2 {main}
+  thrown in /home4/hamdanonline/public_html/demo/messagebird/vendor/tschoffelen/db.php/Database.php on line 46
+[16-Jul-2020 10:12:35 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home4/hamdanonline/public_html/demo/messagebird/vendor/tschoffelen/db.php/Database.php on line 45
+[16-Jul-2020 10:12:35 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function set_charset() on boolean in /home4/hamdanonline/public_html/demo/messagebird/vendor/tschoffelen/db.php/Database.php:46
+Stack trace:
+#0 /home4/hamdanonline/public_html/demo/messagebird/init.php(6): Database->__construct('php_messagebird', 'root', '', 'localhost')
+#1 /home4/hamdanonline/public_html/demo/messagebird/index.php(2): require_once('/home4/hamdanon...')
+#2 {main}
+  thrown in /home4/hamdanonline/public_html/demo/messagebird/vendor/tschoffelen/db.php/Database.php on line 46
+[16-Jul-2020 10:12:38 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home4/hamdanonline/public_html/demo/messagebird/vendor/tschoffelen/db.php/Database.php on line 45
+[16-Jul-2020 10:12:38 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function set_charset() on boolean in /home4/hamdanonline/public_html/demo/messagebird/vendor/tschoffelen/db.php/Database.php:46
+Stack trace:
+#0 /home4/hamdanonline/public_html/demo/messagebird/init.php(6): Database->__construct('php_messagebird', 'root', '', 'localhost')
+#1 /home4/hamdanonline/public_html/demo/messagebird/index.php(2): require_once('/home4/hamdanon...')
+#2 {main}
+  thrown in /home4/hamdanonline/public_html/demo/messagebird/vendor/tschoffelen/db.php/Database.php on line 46
+[16-Jul-2020 10:12:44 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home4/hamdanonline/public_html/demo/messagebird/vendor/tschoffelen/db.php/Database.php on line 45
+[16-Jul-2020 10:12:44 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function set_charset() on boolean in /home4/hamdanonline/public_html/demo/messagebird/vendor/tschoffelen/db.php/Database.php:46
+Stack trace:
+#0 /home4/hamdanonline/public_html/demo/messagebird/init.php(6): Database->__construct('php_messagebird', 'root', '', 'localhost')
+#1 /home4/hamdanonline/public_html/demo/messagebird/inbox.php(2): require_once('/home4/hamdanon...')
+#2 {main}
+  thrown in /home4/hamdanonline/public_html/demo/messagebird/vendor/tschoffelen/db.php/Database.php on line 46
+[16-Jul-2020 10:13:05 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home4/hamdanonline/public_html/demo/messagebird/vendor/tschoffelen/db.php/Database.php on line 45
+[16-Jul-2020 10:13:05 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function set_charset() on boolean in /home4/hamdanonline/public_html/demo/messagebird/vendor/tschoffelen/db.php/Database.php:46
+Stack trace:
+#0 /home4/hamdanonline/public_html/demo/messagebird/init.php(6): Database->__construct('php_messagebird', 'root', '', 'localhost')
+#1 /home4/hamdanonline/public_html/demo/messagebird/inbox.php(2): require_once('/home4/hamdanon...')
+#2 {main}
+  thrown in /home4/hamdanonline/public_html/demo/messagebird/vendor/tschoffelen/db.php/Database.php on line 46
+[16-Jul-2020 10:46:55 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home4/hamdanonline/public_html/demo/messagebird/vendor/tschoffelen/db.php/Database.php on line 45
+[16-Jul-2020 10:46:55 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function set_charset() on boolean in /home4/hamdanonline/public_html/demo/messagebird/vendor/tschoffelen/db.php/Database.php:46
+Stack trace:
+#0 /home4/hamdanonline/public_html/demo/messagebird/init.php(6): Database->__construct('php_messagebird', 'root', '', 'localhost')
+#1 /home4/hamdanonline/public_html/demo/messagebird/index.php(2): require_once('/home4/hamdanon...')
+#2 {main}
+  thrown in /home4/hamdanonline/public_html/demo/messagebird/vendor/tschoffelen/db.php/Database.php on line 46
+[16-Jul-2020 11:00:28 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home4/hamdanonline/public_html/demo/messagebird/vendor/tschoffelen/db.php/Database.php on line 45
+[16-Jul-2020 11:00:28 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function set_charset() on boolean in /home4/hamdanonline/public_html/demo/messagebird/vendor/tschoffelen/db.php/Database.php:46
+Stack trace:
+#0 /home4/hamdanonline/public_html/demo/messagebird/init.php(6): Database->__construct('php_messagebird', 'root', '', 'localhost')
+#1 /home4/hamdanonline/public_html/demo/messagebird/index.php(2): require_once('/home4/hamdanon...')
+#2 {main}
+  thrown in /home4/hamdanonline/public_html/demo/messagebird/vendor/tschoffelen/db.php/Database.php on line 46
+[16-Jul-2020 11:00:37 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home4/hamdanonline/public_html/demo/messagebird/vendor/tschoffelen/db.php/Database.php on line 45
+[16-Jul-2020 11:00:37 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function set_charset() on boolean in /home4/hamdanonline/public_html/demo/messagebird/vendor/tschoffelen/db.php/Database.php:46
+Stack trace:
+#0 /home4/hamdanonline/public_html/demo/messagebird/init.php(6): Database->__construct('php_messagebird', 'root', '', 'localhost')
+#1 /home4/hamdanonline/public_html/demo/messagebird/index.php(2): require_once('/home4/hamdanon...')
+#2 {main}
+  thrown in /home4/hamdanonline/public_html/demo/messagebird/vendor/tschoffelen/db.php/Database.php on line 46

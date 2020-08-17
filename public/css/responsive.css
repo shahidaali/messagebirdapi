@@ -1,0 +1,18 @@
+@media only screen and (max-width: 768px) {
+  .chat-wrap {
+    display: none;
+  }
+  .conversations-wrap {
+    max-width: 100%;
+  }
+
+  .messages-loaded .chat-wrap {
+    display: block;
+  }
+  .messages-loaded .conversations-wrap {
+    display: none;
+  }
+  .chat-profile span.p-back {
+    display: block;
+  }
+}
